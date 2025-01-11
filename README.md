@@ -90,8 +90,8 @@
 
 # Installation
 # Clonez ce projet avec la commande :
-# git clone https://github.com/EmiPretty/Projet_CinemaDA.git
-# cd Projet_CinemaDA
+# git clone https://github.com/EmiPretty/CinemaDataAnalysis.git
+# cd CinemaDataAnalysis
 # Créez un environnement virtuel :
 # python3 -m venv myenv
 # source myenv/bin/activate
